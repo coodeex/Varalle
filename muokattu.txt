@@ -1,0 +1,3 @@
+translations_lang.php
+frontend_book.js
+book.php, style="display:none;"
